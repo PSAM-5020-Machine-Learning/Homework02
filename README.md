@@ -1,4 +1,4 @@
-# HW02
+# Homework02
 
 Some exercises to get started with Python and lists, dicts and data in Python.
 
